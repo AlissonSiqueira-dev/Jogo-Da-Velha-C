@@ -1,2 +1,1 @@
-# Jogo-Da-Velha-C
-Jogo da velha em C
+Program C for an old game 
